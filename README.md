@@ -19,10 +19,10 @@ Help Cyclistic convert more **casual riders into annual members** by understandi
 ## 📊 Visuals
 
 ### 1. Average Ride Duration by Day of Week
-![Avg Ride Duration](avg_ride_duration.png)
+![Avg Ride Duration](Chart1_avg_ride_duration.png)
 
 ### 2. Total Number of Rides by Day of Week
-![Total Rides](total_rides_by_day.png)
+![Total Rides](Chart2_total_rides_by_day.png)
 
 ---
 
