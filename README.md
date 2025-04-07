@@ -35,3 +35,8 @@ Help Cyclistic convert more **casual riders into annual members** by understandi
 
 ## 📦 Dataset:
 The original data was provided by the Google Data Analytics Capstone through Coursera and has been filtered to two quarters due to memory limitations in Posit Cloud.
+
+---
+
+📍 Project by **Akash Pandya**  
+🔗 [Kaggle Notebook](https://www.kaggle.com/code/akashapandya/divvy-trips-capstone-google-data-analytics)
