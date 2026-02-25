@@ -65,10 +65,13 @@ Data spans multiple months for trend comparison.
 - Customize messaging by rider type and behavior segments.
 - Experiment with trial periods based on user behavior patterns.
 
-##  Visuals
+## Visuals
 
-![Cyclistic Dashboard Preview](./images/cyclistic-dashboard-preview.png)
-Dashboard visuals and key charts in /images/ folder.
+### Average Ride Duration by User Type
+![Average Ride Duration](images/Chart1_avg_ride_duration.png)
+
+### Total Rides by Day of Week
+![Total Rides by Day](images/Chart2_total_rides_by_day.png)
 
 ##  Repo Structure
 
