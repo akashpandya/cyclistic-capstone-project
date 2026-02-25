@@ -1,3 +1,5 @@
+# Cyclistic Bike-Share Case Study
+
 ##  Overview
 
 This project explores user behavior of the Cyclistic bike-share system to identify patterns that can inform marketing and retention strategies. The goal is to understand rider usage trends and recommend actions to increase rider engagement and revenue.
@@ -66,7 +68,6 @@ Data spans multiple months for trend comparison.
 ##  Visuals
 
 ![Cyclistic Dashboard Preview](./images/cyclistic-dashboard-preview.png)
-
 Dashboard visuals and key charts in /images/ folder.
 
 ##  Repo Structure
