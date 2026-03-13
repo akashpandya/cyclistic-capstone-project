@@ -1,4 +1,4 @@
-# Cyclistic Bike-Share Case Study
+# SQL + Tableau case study analyzing Cyclistic bike-share rider behavior and membership conversion patterns.
 
 ##  Overview
 
@@ -6,7 +6,7 @@ This project explores user behavior of the Cyclistic bike-share system to identi
 
 ##  Business Problem
 
-Objective:  
+Project Overview:  
 Help Cyclistic understand how casual riders convert (or don’t convert) into annual members, and identify factors that influence rider retention.
 
 Stakeholders:  
@@ -66,6 +66,8 @@ Data spans multiple months for trend comparison.
 - Experiment with trial periods based on user behavior patterns.
 
 ## Visuals
+
+The following visualizations highlight key behavioral differences between casual riders and annual members.
 
 ### Average Ride Duration by User Type
 ![Average Ride Duration](images/Chart1_avg_ride_duration.png)
