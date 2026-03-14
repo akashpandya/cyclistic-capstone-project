@@ -24,11 +24,11 @@ Trip start and end times, member type, bike type, ride durations, and location z
 Timeframe:  
 Data spans multiple months for trend comparison.
 
-##  Tools Used
+## Tools Used
 
-- SQL (BigQuery) — data cleaning, joins, aggregation  
-- Tableau — visualization and dashboard creation  
-- Google Sheets / Excel — exploratory analysis and pivot tables  
+- R (tidyverse, lubridate, ggplot2) — data cleaning, transformation, and analysis
+- SQL — exploratory queries and validation
+- Google Sheets / Excel — quick checks and pivot tables
 - Markdown — project documentation
 
 ##  Process
