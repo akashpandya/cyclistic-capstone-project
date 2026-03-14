@@ -1,5 +1,4 @@
-# SQL + Tableau case study analyzing Cyclistic bike-share rider behavior and membership conversion patterns.
-
+# Cyclistic case study analyzing bike-share rider behavior and membership conversion patterns
 ##  Overview
 
 This project explores user behavior of the Cyclistic bike-share system to identify patterns that can inform marketing and retention strategies. The goal is to understand rider usage trends and recommend actions to increase rider engagement and revenue.
